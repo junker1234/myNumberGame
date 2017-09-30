@@ -6,7 +6,7 @@ using namespace std;
 int main ()
 {
 
-    //MY NAME IS JUNKERTRON
+    //MY NAME IS JUNKERTRON This is nice
   int i,n;
   int * p;
   cout << "How many numbers would you in your array? ";
